@@ -118,7 +118,12 @@
 
 <main>
   <header>
-    <img src="./assets/redcrosslogo.png" alt="Red Cross Logo" width="25%" />
+    <a
+      href="https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwj24dLhpebpAhWHvJ4KHYrfCDkQFjAAegQIMRAD&url=https%3A%2F%2Fwww.redcross.org%2F&usg=AOvVaw1RVnkkHY7DY342VSrCjwGr"
+      target="_blank"
+      rel="noopener noreferrer">
+      <img src="./assets/redcrosslogo.png" alt="Red Cross Logo" width="15%" />
+    </a>
   </header>
   <div class="center">
     <button>
